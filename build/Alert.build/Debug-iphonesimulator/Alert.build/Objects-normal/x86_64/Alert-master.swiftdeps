@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "0336dafd15143e92efcbc6fcb59386f5"
+build_time: [1543379806, 75295000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/Alert/Alert/ViewController.swift": [1543379805, 0]
+  "/Users/sriramprasad/Dev/rough/Alert/Alert/AppDelegate.swift": [1543378743, 0]
